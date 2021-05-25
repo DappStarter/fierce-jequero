@@ -1,0 +1,15 @@
+{
+    "name": "Florida",
+    "blocks": {
+        "/blockchain/ethereum": true,
+        "/blockchain/ethereum/solidity": true,
+        "/framework/react": true,
+        "/category/asset_value_tracking/token": true,
+        "/category/asset_value_tracking/token/name": "Florida",
+        "/category/asset_value_tracking/token/symbol": "FLA",
+        "/category/asset_value_tracking/token/decimals": "19",
+        "/category/asset_value_tracking/token/supply": "7777777777",
+        "/category/file_storage/ipfs": true,
+        "/category/file_storage/ipfs/mode": "single"
+    }
+}
